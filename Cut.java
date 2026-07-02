@@ -24,5 +24,6 @@ public class Cut {
 
         sc.close();
     }
+}
 
 
