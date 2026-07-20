@@ -5,7 +5,7 @@ public class Problem5 {
         int l = 0, r = 0;
         for (int x : w) {
             l = Math.max(l, x);
-            r += x;
+            r += x;u777777u
         }
         while (l < r) {
             int m = (l + r) / 2, days = 1, cur = 0;
